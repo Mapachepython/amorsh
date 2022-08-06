@@ -1,0 +1,2 @@
+# amorsh
+parati
